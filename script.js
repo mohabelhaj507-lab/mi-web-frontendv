@@ -1,6 +1,6 @@
 // CONFIG: pega aquí la URL de tu Web App de Google Apps Script si usas fetch externo.
 // Si sirves la página desde Apps Script (HtmlService), usa google.script.run (ver README).
-const WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbxcvP1Vzy5bUaJOCF3olq2YCi7ZlfGdfrYieRAfnyUhPTB_uc8egtv7SONPqfSgXqbO/exechttps://script.google.com/macros/s/AKfycbxcvP1Vzy5bUaJOCF3olq2YCi7ZlfGdfrYieRAfnyUhPTB_uc8egtv7SONPqfSgXqbO/exec'; // Ej: https://script.google.com/macros/s/XXXX/exec
+const WEBAPP_URL = 'https://script.google.com/macros/s/AKfycbxm5xntL4OuQAumY0lZ98Y-gzeV6cLvlf3tI5Wkv3CncAoOniwCJ9Wx4AWBi0O9Doxz/exec'; // Ej: https://script.google.com/macros/s/XXXX/exec
 const SECRET_KEY = ''; // Opcional: si configuras secretKey en Apps Script
 
 let products = [];
