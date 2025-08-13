@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Espresso",
+    "precio": 1.50,
+    "unidad": "taza",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+  },
+  {
+    "id": 2,
+    "nombre": "Croissant",
+    "precio": 1.20,
+    "unidad": "unidad",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Croissant-Pain-au-chocolat.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Zumo de Naranja",
+    "precio": 2.00,
+    "unidad": "vaso",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orange_juice_1.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarta de Queso",
+    "precio": 3.50,
+    "unidad": "porción",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cheesecake.jpg"
+  }
+]
+[
+  {
+    "id": 1,
+    "nombre": "Café Espresso",
+    "precio": 1.50,
+    "unidad": "taza",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+  },
+  {
+    "id": 2,
+    "nombre": "Croissant",
+    "precio": 1.20,
+    "unidad": "unidad",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Croissant-Pain-au-chocolat.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Zumo de Naranja",
+    "precio": 2.00,
+    "unidad": "vaso",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orange_juice_1.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarta de Queso",
+    "precio": 3.50,
+    "unidad": "porción",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cheesecake.jpg"
+  }
+]
